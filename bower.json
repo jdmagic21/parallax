@@ -1,0 +1,26 @@
+{
+  "name": "parallax-js",
+  "description": "Parallax Engine that reacts to the orientation of a smart device.",
+  "main": "dist/parallax.js",
+  "authors": [
+    "Matthew Wagerfield <matthew@wagerfield.com>",
+    "René Roth <mail@reneroth.org>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "parallax",
+    "gyroscope",
+    "jquery",
+    "javascript",
+    "library"
+  ],
+  "homepage": "https://github.com/jdmagic21/parallax",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
