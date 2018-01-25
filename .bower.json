@@ -1,0 +1,11 @@
+"name": "parallax",
+"description": "Parallax Scroller Library", 
+"main":"src/parallax.js",
+"authors":"wagerfield",
+"ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ],
+  "homepage": "http://matthew.wagerfield.com/parallax/"
